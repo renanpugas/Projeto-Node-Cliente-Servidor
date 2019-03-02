@@ -1,0 +1,5 @@
+express --ejs client-server = engine de template/nome do projeto = cria projeto express
+
+depois se deve entrar na pasta e baixar as dependencias do projeto
+
+npm start
